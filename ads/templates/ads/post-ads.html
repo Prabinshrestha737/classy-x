@@ -30,7 +30,7 @@
       <div class="col-lg-5 col-md-12 col-xs-12">
         {% if request.user.is_authenticated %}
         <div class="row page-content">
-          <form action="" class="ads-form" id="ad-post-form">
+          <form action="POST" class="ads-form" id="ad-post-form">
 
             <label>Product Title <span class="req-aseteric">*</span></label>
             <input type="text" id="title" class="form-control ad-post-form"
@@ -49,7 +49,7 @@
             <label>Select Ads Category <span class="req-aseteric">*</span></label>
             <div class="select ad-post-form">
               <select id="category" name="category" class="form-control">
-                <option value="mobile">Mobiles</option>
+                <option value="mobile">mobiles</option>
                 <option value="laptops">Laptops</option>
                 <option value="automobiles">Automobiles</option>
         
