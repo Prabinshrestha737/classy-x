@@ -226,7 +226,7 @@ ul li, ol li {
 }
 
 .btn-common {
-  background-color: #89613A;
+  background-color: #300E3C;
   position: relative;
   color: #fff;
   z-index: 1;
@@ -305,7 +305,7 @@ a.back-to-top i {
   height: 40px;
   line-height: 40px;
   color: #fff;
-  background: #89613A;
+  background-color: #109DD0;
   border-radius: 50px;
   text-align: center;
   transition: all 0.2s ease-in-out;
@@ -585,7 +585,8 @@ a.back-to-top:hover, a.back-to-top:focus {
 .navbar-expand-lg .navbar-nav li a:hover,
 .navbar-expand-lg .navbar-nav li .active > a,
 .navbar-expand-lg .navbar-nav li a:focus {
-  color: #89613A;
+  color: #74eb2f;
+  /* background-color: #300E3C; */
   outline: none;
 }
 
@@ -675,7 +676,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 .dropdown .dropdown-item:focus,
 .dropdown .dropdown-item:hover,
 .dropdown .dropdown-item.active {
-  background: #89613A;
+  background-color: #300E3C;
   color: #fff !important;
 }
 
@@ -689,7 +690,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   padding: 3px 15px 3px;
   margin-right: 10px;
   position: relative;
-  background: #89613A;
+  background:  #109DD0;
   text-align: center;
   border-radius: 30px;
   display: inline-block;
@@ -1022,6 +1023,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   -moz-transition: all 0.4s ease-in-out;
   -webkit-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
+  background-color: #109DD0;
 }
 
 .search-bar .btn-common i {
@@ -1030,7 +1032,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .search-button {
-  background: #484848;
+  background-color: #300E3C;
   padding-bottom: 40px;
 }
 
@@ -4600,7 +4602,7 @@ footer .menu li a:hover {
 }
 
 .footer-social li a {
-  background-color: #89613A;
+  background-color: #109DD0;
   border-radius: 50%;
   color: #fff;
   height: 32px;
