@@ -187,4 +187,5 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.zoho.com'
 EMAIL_HOST_USER = "karmainformatica@zohomail.com"
+DEFAULT_FROM_EMAIL = 'karmainformatica@zohomail.com'
 EMAIL_HOST_PASSWORD = "Test@Karma2"
